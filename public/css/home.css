@@ -1,0 +1,18 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #565656;
+    color: antiquewhite;
+}
+
+#projects{
+    background-color: #565656;
+}
+
+section{
+    padding-top: 6rem;
+}
+
+ul.dropdown-menu>li {
+    text-align: center;
+}
+
